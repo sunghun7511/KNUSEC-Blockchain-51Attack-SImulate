@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gs-algo-1.3">
+    <CLASSES>
+      <root url="jar://D:/Dev/JAVA/라이브러리/graphstream/gs-algo-1.3/gs-algo-1.3/gs-algo-1.3.jar!/" />
+      <root url="jar://D:/Dev/JAVA/라이브러리/graphstream/gs-core-1.3/gs-core-1.3/gs-core-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
